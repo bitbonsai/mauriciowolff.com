@@ -115,7 +115,7 @@
 			</div>
 			<div class="span-one-third">
 				<h3>Projects</h3>
-				<p>I have a couple projects going on, like jQuery plugins (<a href="https://github.com/bitbonsai/facybox" target="_blank">Facybox</a>, <a href="https://github.com/bitbonsai/waitill" target="_blank">Waitill</a> &mdash; check my <a href="https://github.com/bitbonsai">github account</a> or <a href="http://abpedia.org">abpedia.org</a>, a site about AB Tests in Portuguese, a joint venture with <a href="http://cristianosantos.com.br/" target="_blank">Cristiano Santos</a> and <a href="http://tiagosartor.com" target="_blank">Tiago Sartor</a>.</p>
+				<p>I have a couple projects going on, like jQuery plugins (<a href="https://github.com/bitbonsai/facybox" target="_blank">Facybox</a>, <a href="https://github.com/bitbonsai/waitill" target="_blank">Waitill</a> &mdash; check my <a href="https://github.com/bitbonsai">github account</a>) or <a href="http://abpedia.org">abpedia.org</a>, a site about AB Tests in Portuguese, a joint venture with <a href="http://cristianosantos.com.br/" target="_blank">Cristiano Santos</a> and <a href="http://tiagosartor.com" target="_blank">Tiago Sartor</a>.</p>
 				<p>
 					<a class="btn" target="_blank" href="http://github.com/bitbonsai">My GitHub account &raquo;</a>
 					<a class="btn" target="_blank" href="http://abpedia.org">See abpedia.org &raquo;</a>
