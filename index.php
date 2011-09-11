@@ -146,6 +146,7 @@
 
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-25654290-1']);
+	  _gaq.push(['_setDomainName', '.mauriciowolff.com']);
 	  _gaq.push(['_trackPageview']);
 
 	  (function() {
