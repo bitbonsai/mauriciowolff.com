@@ -1,0 +1,108 @@
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.tabContent{
+	padding: 10px;
+	padding-top: 0;
+	display: none;
+}
+.tabContent.on{
+	display: block;
+}
+
+.tabs, .pills{
+	margin: 0;
+}
+
+.tweet_list li{
+	clear: both;
+	margin-bottom: 5px;
+	padding: 5px;
+}
+
+.tweet_avatar{
+	float: left;
+	margin: 0 5px 0 0;
+}
+.tweet_even{
+	background: #f5f5f5;
+}
+
+.follow{
+	height: 20px;
+	margin: 10px 0 0 0;
+	overflow: hidden;
+	position: relative;
+}
+.follow iframe{
+	height: 20px;
+	position: absolute;
+	right: 0;
+	width: 130px;
+}
+
+.ghb_badge{
+	margin-top: 10px;
+}
+
+.dropdown-menu{
+	z-index: 2;
+}
+
+#skills h6{
+	line-height: 150%;
+}
+
+
+#masthead, #footer {
+  background-color: #4C2D18;
+  background-repeat: no-repeat;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#4C2D18), to(#9D957E));
+  background-image: -webkit-linear-gradient(#4C2D18, #9D957E);
+  background-image: -moz-linear-gradient(#4C2D18, #9D957E);
+  background-image: -o-linear-gradient(top, #4C2D18, #9D957E);
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#4C2D18), to(#9D957E));
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4C2D18', endColorstr='#9D957E', GradientType=0); /* IE8 and down */
+}
+#masthead div.inner, #footer div.inner {
+  padding: 20px 0 10px 0;
+  -webkit-box-shadow: inset 0 10px 30px rgba(0, 0, 0, 0.3);
+     -moz-box-shadow: inset 0 10px 30px rgba(0, 0, 0, 0.3);
+          box-shadow: inset 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+#masthead h1,
+#footer h1,
+#masthead p,
+#footer p {
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0,0,0,.5);
+}
+#masthead p a,
+#footer p a {
+  color: #fff;
+  font-weight: bold;
+}
+#masthead h1,
+#masthead p {
+  text-align: center;
+  margin-bottom: 9px;
+}
+#masthead h1 {
+  font-size: 54px;
+  line-height: 1;
+  text-shadow: 0 1px 2px rgba(0,0,0,.5);
+  letter-spacing: -0.05em;
+}
+#masthead p {
+  font-weight: 300;
+}
+#masthead{
+	margin-bottom: 30px;
+}
+#masthead p.lead {
+  font-size: 20px;
+  line-height: 27px;
+}
