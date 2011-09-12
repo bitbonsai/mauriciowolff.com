@@ -8,7 +8,7 @@ Intent
 
 I wanted to experiment Twitter's Bootstrap, and see how it can fit HTML5 Boilerplate, as well as some other web optimizations. 
 
-In terms of JS, I'm using a singleton approach to write the page's features, you can check the object mw at the console.
+In terms of JS, I'm using a singleton approach to write the page's features, you can check the object `mw` at the console.
 
 Next steps
 ----------
