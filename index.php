@@ -102,7 +102,7 @@
 				<p>MacOS, Windows, Linux (Ubuntu, CentOS, Gentoo, SuSe), FreeBSD</p>
 				
 				<h6>Things on my radar</h6>
-				<p>Node.js, couchDB, Cucumber, Capybara, Ruby, jqUnit, OOCSS, mobile JS Frameworks</p>
+				<p>Node.js, couchDB, Cucumber, Capybara, Ruby, jqUnit, OOCSS, LabJS, Less, Sass, Mustache, mobile JS Frameworks</p>
 				<p></p>
 			</div>
 		</div>
