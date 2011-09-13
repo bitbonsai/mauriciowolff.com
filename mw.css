@@ -58,7 +58,7 @@
 
 
 #masthead, #footer {
-  background-color: #8C9FC1;
+  background-color: #69c;
 }
 #masthead div.inner, #footer div.inner {
   padding: 20px 0 10px 0;
@@ -67,15 +67,18 @@
           box-shadow: inset 0 10px 30px rgba(0, 0, 0, 0.3);
 }
 #masthead h1,
-#footer h1,
-#masthead p,
-#footer p {
+#footer h1{
   color: #fff;
   text-shadow: 0 1px 1px rgba(0,0,0,.5);
 }
+
+#masthead p,
+#footer p {
+  color: #B3CCE6;
+}
 #masthead p a,
 #footer p a {
-  color: #fff;
+  color: #B3CCE6;
   font-weight: bold;
 }
 #masthead h1,
@@ -97,6 +100,8 @@
 #masthead p.lead {
   font-size: 20px;
   line-height: 27px;
+  text-shadow: rgba(255, 255, 255, .5) 0 1px;
+  color: #334C66;
 }
 
 .box{
