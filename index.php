@@ -10,15 +10,15 @@
 </head>
 
 <body>
-
+	<a name="top"></a>
 	<div id="masthead">
 		<div class="inner">
 			<div class="container">
 				<h1>Maurício Wolff</h1>
 				<p class="lead">
-					UXDesigner, WebDesigner,  WebDeveloper, A/B Tests, CSS, JS, jQuery, HTML...
+					<strong>UXDesigner, WebDesigner,  WebDeveloper, A/B Tests, CSS, JS, jQuery, HTML...</strong>
 				</p>
-				<p>Well, yet another geek, but a nice one. Works at Dell.com as Web Design lead and Innovator &mdash; Test &amp; Target Team, inside Global Online.</p>
+				<p><strong>Well, yet another geek, but a nice one. Works at Dell.com as Web Design Lead and Innovator &mdash; Test &amp; Target Team &mdash; Global Online.</strong></p>
 			</div><!-- /container -->
 		</div>
 	</div>
@@ -122,8 +122,10 @@
 				</p>
 			</div>
 			<div class="span-one-third">
-				<h3>About This little site</h3>
-				<p>This is my first experiment with <a href="https://github.com/twitter/bootstrap" target="_blank">BootStrap</a>, a CSS framework from Twitter. I also used a stripped down version of <a href="http://html5boilerplate.com/" target="_blank">HTML5 boilerplate</a> as well as <a href="http://code.google.com/closure/" target="_blank">Google Closure Compiler</a> to compress the  JS/CSS. <a href="https://github.com/bitbonsai/mauriciowolff.com">All this code is on github</a>, so fell free to clone and twist it. Please make a pull request so I can learn from that too...</p>
+				<div class="box">
+					<h3 class="muted">About This little site</h3>
+					<p>This is my first experiment with <a href="https://github.com/twitter/bootstrap" target="_blank">BootStrap</a>, a CSS framework from Twitter. I also used a stripped down version of <a href="http://html5boilerplate.com/" target="_blank">HTML5 boilerplate</a> as well as <a href="http://code.google.com/closure/" target="_blank">Google Closure Compiler</a> to compress the  JS/CSS. <a href="https://github.com/bitbonsai/mauriciowolff.com">All this code is on github</a>, so fell free to clone and twist it. Please make a pull request so I can learn from that too...</p>
+				</div>
 			</div>
 		</div>
 	</div> <!-- /container -->
@@ -131,10 +133,10 @@
 	<div id="footer">
 		<div class="inner">
 			<div class="container">
-				<p class="right"><a href="#">Go to top</a></p>
+				<p class="right"><a href="#top">Go to top</a></p>
 				<p>
-					Designed and built with all the love by <a href="http://twitter.com/bitbonsai" target="_blank">@bitbonsai</a>. <span class="muted">BootStrap's footer rocks.</span><br>
-					Mauricio Wolff doesn't care about attribution at all. — It's all yours under a <a target="_blank" href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a> license.<br>
+					Designed and built with all the love by <a href="http://twitter.com/bitbonsai" target="_blank">@bitbonsai</a>. <span class="mutedlight">BootStrap's footer rocks.</span><br>
+					Mauricio Wolff doesn't care about attribution at all. &mdash; It's all yours under a <a target="_blank" href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a> license.<br>
 				</p>
 			</div>
 		</div>
