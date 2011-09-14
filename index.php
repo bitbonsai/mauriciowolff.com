@@ -10,15 +10,16 @@
 </head>
 
 <body>
+<div class="wrap">
 	<a name="top"></a>
 	<div id="masthead">
 		<div class="inner">
 			<div class="container">
 				<h1>Maurício Wolff</h1>
 				<p class="lead">
-					<strong>UXDesigner, WebDesigner,  WebDeveloper, A/B Tests, CSS, JS, jQuery, HTML...</strong>
+					<strong>Hi, I'm a UXDesigner, WebDesigner &amp; FrontEnd Developer...</strong>
 				</p>
-				<p><strong>Well, yet another geek, but a nice one. Works at Dell.com as Web Design Lead and Innovator &mdash; Test &amp; Target Team &mdash; Global Online.</strong></p>
+				<p><strong>Well, yet another geek, but a nice one. I work at Dell.com as Web Design Lead and Innovator on the Test &amp; Target Team &mdash; Global Online.</strong></p>
 			</div><!-- /container -->
 		</div>
 	</div>
@@ -129,19 +130,19 @@
 			</div>
 		</div>
 	</div> <!-- /container -->
-
-	<div id="footer">
-		<div class="inner">
-			<div class="container">
-				<p class="right"><a href="#top">Go to top</a></p>
-				<p>
-					Designed and built with all the love by <a href="http://twitter.com/bitbonsai" target="_blank">@bitbonsai</a>. <span class="mutedlight">BootStrap's footer rocks.</span><br>
-					Mauricio Wolff doesn't care about attribution at all. &mdash; It's all yours under a <a target="_blank" href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a> license.<br>
-				</p>
-			</div>
+	<div class="push"></div>
+</div>
+<div id="footer">
+	<div class="inner">
+		<div class="container">
+			<p class="right"><a href="#top">Go to top</a></p>
+			<p>
+				Designed and built with all the love by <a href="http://twitter.com/bitbonsai" target="_blank">@bitbonsai</a>. <span class="mutedlight">BootStrap's footer rocks.</span><br>
+				Mauricio Wolff doesn't care about attribution at all. &mdash; It's all yours under a <a target="_blank" href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a> license.<br>
+			</p>
 		</div>
-	</div> <!-- footer -->
-
+	</div>
+</div> <!-- footer -->
 	<script src="http://code.jquery.com/jquery-1.6.3.min.js" type="text/javascript"></script>
 	<script src="init.js" type="text/javascript" charset="utf-8"></script>
 	<script type="text/javascript">
