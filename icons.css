@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+/* mw */
+@font-face {
+  font-family: "mw";
+  src:url("/1447148369.eot");
+  src:url("/1447148369.eot?#iefix") format("embedded-opentype"),
+    url("/1447148369.woff") format("woff"),
+    url("/1447148369.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[data-icon]:before {
+  font-family: "mw" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "mw" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook-circled:before {
+  content: "f";
+}
+.icon-twitter-circled:before {
+  content: "t";
+}
+.icon-linkedin-circled:before {
+  content: "l";
+}
+.icon-arrow-circle-down-line:before {
+  content: "d";
+}
+.icon-instagrem:before {
+  content: "i";
+}
+.icon-fontawesome-webfont:before {
+  content: "g";
+}
+.icon-mw-logo:before {
+  content: "w";
+}
